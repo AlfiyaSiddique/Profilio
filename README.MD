@@ -1,6 +1,6 @@
 To run the app on a local simulator device do the following
 
-Step1: Extract the project and go to the project location in cmd or terminal
+Step1: Clone the project and go to the project location in cmd or terminal
 
 Step 2: Install Expo cli using the below command
 npm install -g expo-cli
